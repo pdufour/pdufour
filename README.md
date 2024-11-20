@@ -40,7 +40,7 @@
       </ul>
       <h4>Candidate offer tools revamp:</h4>
       <ul>
-        <li>📈 3x faster offer generation</li>
+        <li>📈 20 day reduction in time to offer</li>
         <li>👥 Used for 1M+ candidates</li>
       </ul>
       <h4>AI test coverage:</h4>
