@@ -1,5 +1,5 @@
 <h1 align="center">Staff Engineer @ Uber, Building On-Device AI</h1>
-<table width="100%">
+<table width="100%" align="center">
   <tr>
     <td width="50%" align="center">
       <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
