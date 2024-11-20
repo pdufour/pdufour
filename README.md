@@ -1,7 +1,7 @@
 <h1 align="center">Staff Engineer @ Uber, Building On-Device AI</h1>
 <table width="100%" align="center">
   <tr>
-    <td colspan="2" width="50%" align="center">
+    <td colspan="2" height="1" width="50%" align="center">
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
