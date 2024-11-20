@@ -1,5 +1,11 @@
 <h1 align="center">Staff Engineer @ Uber, Building On-Device AI</h1>
 
+<h4 align="center">
+  <a href="https://threads.net/pauldufour">
+    <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Follow%20%40pauldufour&color=000000&logo=threads&logoColor=FFFFFF&label=THREADS" alt="Threads"/>
+  </a>
+</h4>
+
 <div align="center">
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
@@ -10,62 +16,50 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🚀 Open Source Work</h3>
-      <ul>
-        <li>Created llm-coder: Browser-based multimodal AI</li>
-        <li>Audio, text and image inputs using WebGL</li>
-        <li>5MB model size, 20ms inference time</li>
-        <li>No server dependencies needed</li>
-      </ul>
+      <h3>🚀 Open Source Projects</h3>
       
-      <h3>💼 Impact at Uber</h3>
+      <h4>llm-coder</h4>
+      Browser-based multimodal AI:
+      - Audio, text and image inputs
+      - Custom WebGL acceleration layer
+      - 5MB model size, 20ms inference
+      - Progressive model loading
+
+      <h4>Model Optimization</h4>
+      - Custom ONNX.js pruning
+      - 4-bit quantization
+      - Selective layer fusion
+      - WebGL compute shaders
+      - SIMD optimizations
       
-Edge Computing:
-- ⚡️ 45% reduction in TTFB
-- 📱 68% faster mobile load times
-- 🌐 2M+ requests/day through edge cache
-
-Hiring Platform:
-- 📈 3x faster offer generation
-- 👥 Scaled to 1M+ candidates
-- 💸 $2M annual cost savings
-
-AI Test Coverage:
-- 🎯 35% coverage improvement
-- 🔄 90% automated refactoring
-- ⏱️ 60% faster PR reviews
+      <h4>Browser Performance</h4>
+      - WebGL compute shaders
+      - SIMD optimization
+      - Worker thread orchestration
+      - Memory management
     </td>
     <td width="50%" valign="top">
-      <h3>🎯 Technical Focus Areas</h3>
-      <ul>
-        <li>🧠 Model Optimization
-          <ul>
-            <li>Custom ONNX.js pruning</li>
-            <li>4-bit quantization engine</li>
-            <li>Layer fusion techniques</li>
-          </ul>
-        </li>
-        <li>⚡ Edge Architecture
-          <ul>
-            <li>Progressive loading systems</li>
-            <li>WebAssembly acceleration</li>
-            <li>Worker thread orchestration</li>
-          </ul>
-        </li>
-        <li>📊 Performance
-          <ul>
-            <li>WebGL compute shaders</li>
-            <li>SIMD optimizations</li>
-            <li>Memory management</li>
-          </ul>
-        </li>
-      </ul>
+      <h3>💼 Work Impact @ Uber</h3>
+      
+      <h4>Edge Computing</h4>
+      - ⚡️ 45% reduction in TTFB
+      - 📱 68% faster mobile load times
+      - 🌐 2M+ requests/day through edge cache
+
+      <h4>Hiring Platform</h4>
+      - 📈 3x faster offer generation
+      - 👥 Scaled to 1M+ candidates
+      - 💸 $2M annual cost savings
+
+      <h4>AI Test Coverage</h4>
+      - 🎯 35% coverage improvement
+      - 🔄 90% automated refactoring
+      - ⏱️ 60% faster PR reviews
+
+      <h4>Edge Architecture</h4>
+      - Progressive loading systems
+      - WebAssembly acceleration
+      - Worker thread orchestration
     </td>
   </tr>
 </table>
-
-<div align="center">
-  <a href="https://threads.net/pauldufour">
-    <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Follow&color=000000&logo=threads&logoColor=FFFFFF&label=THREADS" alt="Threads"/>
-  </a>
-</div>
