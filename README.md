@@ -16,16 +16,17 @@
       <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
       <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
       <img src="https://img.shields.io/badge/WebAssembly-654FF0?style=for-the-badge&logo=webassembly&logoColor=white"/>
+      <img src="" width="900" height="1">
     </td>
     <td width="50%" align="center">
-      <nowrap>
       <img src="https://img.shields.io/badge/TensorFlow.js-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
       <a href="https://linkedin.com/in/pauldufour">
         <img src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=" />
       </a>
       <a href="https://threads.net/pauldufour">
         <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Threads&color=000000&logo=Threads&logoColor=FFFFFF&label=" />
-      </a></nowrap>
+      </a>
+      <img src="" width="900" height="1">
     </td>
   </tr>
 </table>
