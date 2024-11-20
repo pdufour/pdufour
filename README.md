@@ -6,6 +6,7 @@
         hi
     </td>
     <td width="50%" valign="top">
+      yo
     </td>
   </tr>
 </table>
