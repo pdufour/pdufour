@@ -3,7 +3,7 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🚀 Open source work</h3>
+      ### 🚀 Open source work
       
     </td>
     <td width="50%" valign="top">
