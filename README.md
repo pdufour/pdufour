@@ -7,51 +7,46 @@
   <img src="https://img.shields.io/badge/TensorFlow.js-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
 </div>
 
-<table width="100%">
+<table>
   <tr>
     <td width="50%" valign="top">
       <h2>🚀 Open Source</h2>
       
       <h3>llm-coder</h3>
-      <ul>
-        <li>Browser-based multimodal AI that runs locally</li>
-        <li>Audio, text and image inputs with WebGL acceleration</li>
-        <li>5MB model size, 20ms inference time</li>
-        <li>Progressive loading with no server dependencies</li>
-      </ul>
+      
+* Browser-based multimodal AI that runs locally
+* Audio, text and image inputs with WebGL acceleration
+* 5MB model size, 20ms inference time
+* Progressive loading with no server dependencies
 
       <h3>Model Optimization</h3>
-      <ul>
-        <li>Custom ONNX.js pruning techniques</li>
-        <li>4-bit quantization with minimal accuracy loss</li>
-        <li>Layer fusion for optimal browser performance</li>
-        <li>WebGL compute shader optimizations</li>
-        <li>SIMD and WebAssembly acceleration</li>
-      </ul>
+      
+* Custom ONNX.js pruning techniques
+* 4-bit quantization with minimal accuracy loss
+* Layer fusion for optimal browser performance
+* WebGL compute shader optimizations
+* SIMD and WebAssembly acceleration
     </td>
     <td width="50%" valign="top">
       <h2>💼 Professional Impact</h2>
       
       <h3>Edge Computing @ Uber</h3>
-      <ul>
-        <li>⚡️ 45% reduction in TTFB</li>
-        <li>📱 68% faster mobile load times</li>
-        <li>🌐 Serving 2M+ requests/day</li>
-      </ul>
+      
+* ⚡️ 45% reduction in TTFB
+* 📱 68% faster mobile load times
+* 🌐 Serving 2M+ requests/day
 
       <h3>Hiring Tools Revamp</h3>
-      <ul>
-        <li>📈 3x faster offer generation</li>
-        <li>👥 Used for 1M+ candidates</li>
-        <li>💸 $2M annual efficiency gains</li>
-      </ul>
+      
+* 📈 3x faster offer generation
+* 👥 Used for 1M+ candidates
+* 💸 $2M annual efficiency gains
 
       <h3>AI Test Coverage</h3>
-      <ul>
-        <li>🎯 Coverage increased by 35%</li>
-        <li>🔄 90% automated refactoring</li>
-        <li>⏱️ 60% faster PR reviews</li>
-      </ul>
+      
+* 🎯 Coverage increased by 35%
+* 🔄 90% automated refactoring
+* ⏱️ 60% faster PR reviews
     </td>
   </tr>
 </table>
