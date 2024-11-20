@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Threads&color=000000&logo=Threads&logoColor=FFFFFF&label=" />
   </a>
 </div>
-<table width="100%">
+<table width="100%" align="center">
   <tr>
     <td width="50%" valign="top">
       <h3>🚀 Open source work</h3>
