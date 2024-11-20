@@ -10,43 +10,56 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h2>🚀 Open Source</h2>
+      <h3>🚀 Open Source Work</h3>
+      <ul>
+        <li>Created llm-coder: Browser-based multimodal AI</li>
+        <li>Audio, text and image inputs using WebGL</li>
+        <li>5MB model size, 20ms inference time</li>
+        <li>No server dependencies needed</li>
+      </ul>
       
-      <h3>llm-coder</h3>
+      <h3>💼 Impact at Uber</h3>
       
-* Browser-based multimodal AI that runs locally
-* Audio, text and image inputs with WebGL acceleration
-* 5MB model size, 20ms inference time
-* Progressive loading with no server dependencies
+Edge Computing:
+- ⚡️ 45% reduction in TTFB
+- 📱 68% faster mobile load times
+- 🌐 2M+ requests/day through edge cache
 
-      <h3>Model Optimization</h3>
-      
-* Custom ONNX.js pruning techniques
-* 4-bit quantization with minimal accuracy loss
-* Layer fusion for optimal browser performance
-* WebGL compute shader optimizations
-* SIMD and WebAssembly acceleration
+Hiring Platform:
+- 📈 3x faster offer generation
+- 👥 Scaled to 1M+ candidates
+- 💸 $2M annual cost savings
+
+AI Test Coverage:
+- 🎯 35% coverage improvement
+- 🔄 90% automated refactoring
+- ⏱️ 60% faster PR reviews
     </td>
     <td width="50%" valign="top">
-      <h2>💼 Professional Impact</h2>
-      
-      <h3>Edge Computing @ Uber</h3>
-      
-* ⚡️ 45% reduction in TTFB
-* 📱 68% faster mobile load times
-* 🌐 Serving 2M+ requests/day
-
-      <h3>Hiring Tools Revamp</h3>
-      
-* 📈 3x faster offer generation
-* 👥 Used for 1M+ candidates
-* 💸 $2M annual efficiency gains
-
-      <h3>AI Test Coverage</h3>
-      
-* 🎯 Coverage increased by 35%
-* 🔄 90% automated refactoring
-* ⏱️ 60% faster PR reviews
+      <h3>🎯 Technical Focus Areas</h3>
+      <ul>
+        <li>🧠 Model Optimization
+          <ul>
+            <li>Custom ONNX.js pruning</li>
+            <li>4-bit quantization engine</li>
+            <li>Layer fusion techniques</li>
+          </ul>
+        </li>
+        <li>⚡ Edge Architecture
+          <ul>
+            <li>Progressive loading systems</li>
+            <li>WebAssembly acceleration</li>
+            <li>Worker thread orchestration</li>
+          </ul>
+        </li>
+        <li>📊 Performance
+          <ul>
+            <li>WebGL compute shaders</li>
+            <li>SIMD optimizations</li>
+            <li>Memory management</li>
+          </ul>
+        </li>
+      </ul>
     </td>
   </tr>
 </table>
