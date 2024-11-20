@@ -1,6 +1,6 @@
 <h1 align="center">Staff Engineer @ Uber, Building On-Device AI</h1>
 
-<table>
+<table width="100%">
   <tr>
     <td width="50%" valign="top">
       <h3>🚀 Open source work</h3>
