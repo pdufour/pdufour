@@ -1,13 +1,11 @@
 <h1 align="center">Staff Engineer @ Uber, Building On-Device AI</h1>
 <table width="100%" align="center">
     <td width="50%" align="center">
-      &nbsp;&nbsp;&nbsp;
       <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
       <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
       <img src="https://img.shields.io/badge/WebAssembly-654FF0?style=for-the-badge&logo=webassembly&logoColor=white"/>
     </td>
     <td width="50%" align="center">
-    &nbsp;&nbsp;&nbsp;
       <img src="https://img.shields.io/badge/TensorFlow.js-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
       <a href="https://linkedin.com/in/pauldufour">
         <img src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=" />
