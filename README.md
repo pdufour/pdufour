@@ -1,7 +1,7 @@
 # Hi, I'm Paul Dufour 👋
 <div align="left">
   <a href="https://twitter.com/[your-handle]">
-    <img src="https://img.shields.io/twitter/follow/[your-handle]?label=Twitter&logo=twitter&style=flat-square&color=0072b1&logoColor=ffffff" alt="Twitter" />
+    <img src="https://img.shields.io/threads/follow/@pauldufour?label=Threads&logo=threads&style=flat-square&color=0072b1&logoColor=ffffff" alt="Threads" />
   </a>
   <a href="https://linkedin.com/in/[your-profile]">
     <img src="https://img.shields.io/static/v1?logo=linkedin&style=flat-square&color=0072b1&label=LinkedIn&message=%20" alt="LinkedIn" />
