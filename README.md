@@ -23,11 +23,12 @@
       <h3>💼 Impact at Uber</h3>
       <h4>Edge caching initiative:</h4>
       <ul>
-        <li>⚡️ 45% reduction in TTFB</li>
+        <li>⚡️ 45% reduction in TTFB
           <ul>
             <li>📱 68% faster mobile load times</li>
             <li>🌐 Serving 1b+ requests a month</li>
           </ul>
+        </li>
       </ul>
 
       <h4>Candidate offer tools revamp:</h4>
