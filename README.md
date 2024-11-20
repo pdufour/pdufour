@@ -7,47 +7,48 @@
   <img src="https://img.shields.io/badge/TensorFlow.js-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
 </div>
 
-<div style="display: flex; width: 100%;">
-  <div style="flex: 1; padding: 20px;">
-    <h2>🚀 Open Source</h2>
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h2>🚀 Open Source</h2>
+      
+      <h3>llm-coder</h3>
+      Browser-based multimodal AI that runs locally
+      - Audio, text and image inputs
+      - Custom WebGL acceleration layer
+      - 5MB model size, 20ms inference
+      - Progressive model loading
 
-    ### llm-coder
-    Browser-based multimodal AI that runs locally
-    - Audio, text and image inputs
-    - Custom WebGL acceleration layer
-    - 5MB model size, 20ms inference
-    - Progressive model loading
+      <h3>Model Optimization</h3>
+      - Custom ONNX.js pruning
+      - 4-bit quantization
+      - Selective layer fusion
+      - WebGL compute shaders
+      - SIMD optimizations
+    </td>
+    <td width="50%" valign="top">
+      <h2>💼 Professional Impact</h2>
+      
+      <h3>Edge Computing @ Uber</h3>
+      Edge caching initiative: 
+      - ⚡️ 45% reduction in TTFB
+      - 📱 68% faster mobile load times
+      - 🌐 Serving 2M+ requests/day
 
-    ### Model Optimization
-    - Custom ONNX.js pruning
-    - 4-bit quantization
-    - Selective layer fusion
-    - WebGL compute shaders
-    - SIMD optimizations
-  </div>
+      <h3>Hiring Tools</h3>
+      Candidate offer tools revamp:
+      - 📈 3x faster offer generation
+      - 👥 Used for 1M+ candidates
+      - 💸 $2M annual efficiency gains
 
-  <div style="flex: 1; padding: 20px;">
-    <h2>💼 Professional Impact</h2>
-
-    ### Edge Computing @ Uber
-    Edge caching initiative: 
-    - ⚡️ 45% reduction in TTFB
-    - 📱 68% faster mobile load times
-    - 🌐 Serving 2M+ requests/day
-
-    ### Hiring Tools
-    Candidate offer tools revamp:
-    - 📈 3x faster offer generation
-    - 👥 Used for 1M+ candidates
-    - 💸 $2M annual efficiency gains
-
-    ### AI Automation
-    Test coverage improvements:
-    - 🎯 Coverage increased by 35%
-    - 🔄 90% automated refactoring
-    - ⏱️ 60% faster PR reviews
-  </div>
-</div>
+      <h3>AI Automation</h3>
+      Test coverage improvements:
+      - 🎯 Coverage increased by 35%
+      - 🔄 90% automated refactoring
+      - ⏱️ 60% faster PR reviews
+    </td>
+  </tr>
+</table>
 
 <div align="center">
   <a href="https://threads.net/pauldufour">
