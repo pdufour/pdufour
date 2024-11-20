@@ -11,8 +11,10 @@
         <li>5MB model size, 20ms inference</li>
       </ul>
       <h3>test</h3>
+      <ul>
+        <li>test</li>
+      </ul>
       
-      <h3>💼 Impact at Uber</h3>
       
 Edge caching initiative: 
 - ⚡️ 45% reduction in TTFB
