@@ -3,55 +3,45 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🚀 Building llm-coder</h3>
+      <h3>🚀 Open source work</h3>
+      
+      <h4>LLM Coder</h4>
       <ul>
         <li>Browser-based multimodal AI that runs locally</li>
         <li>Audio, text and image inputs</li>
-        <li>Custom WebGL acceleration layer</li>
-        <li>5MB model size, 20ms inference</li>
+        <li>Custom fine-tuned models</li>
+      </ul>
+
+
+      <h3>🎯 Qwen2-VL on the browser</h3>
+      <ul>
+        <li>Created ONNX versions of Qwen2-VL to get it working on the browser</li>
+        <li>Available on my <a href="https://huggingface.co/pdufour/">Huggingface profile</a></li>
       </ul>
       
-      <h3>💼 Impact at Uber</h3>
-      
-Edge caching initiative: 
-- ⚡️ 45% reduction in TTFB
-- 📱 68% faster mobile load times
-- 🌐 Serving 2M+ requests/day
-
-Candidate offer tools revamp:
-- 📈 3x faster offer generation
-- 👥 Used for 1M+ candidates
-- 💸 $2M annual efficiency gains
-
-AI test coverage:
-- 🎯 Coverage increased by 35%
-- 🔄 90% automated refactoring
-- ⏱️ 60% faster PR reviews
     </td>
     <td width="50%" valign="top">
-      <h3>🎯 On-Device AI Focus</h3>
+      <h3>💼 Impact at Uber</h3>
+      <h4>Edge caching initiative:</h4>
       <ul>
-        <li>🧠 Model Optimization
+        <li>⚡️ 45% reduction in TTFB
           <ul>
-            <li>Custom ONNX.js pruning</li>
-            <li>4-bit quantization</li>
-            <li>Selective layer fusion</li>
+            <li>📱 68% faster mobile load times</li>
+            <li>🌐 Serving 1b+ requests a month</li>
           </ul>
         </li>
-        <li>⚡ Edge Architecture
-          <ul>
-            <li>Progressive model loading</li>
-            <li>WebAssembly acceleration</li>
-            <li>Worker thread orchestration</li>
-          </ul>
-        </li>
-        <li>📊 Browser Performance
-          <ul>
-            <li>WebGL compute shaders</li>
-            <li>SIMD optimization</li>
-            <li>Memory management</li>
-          </ul>
-        </li>
+      </ul>
+
+      <h4>Candidate offer tools revamp:</h4>
+      <ul>
+        <li>📈 3x faster offer generation</li>
+        <li>👥 Used for 1M+ candidates</li>
+      </ul>
+
+      <h4>AI test coverage:</h4>
+      <ul>
+        <li>🎯 Coverage increased by 50%</li>
+        <li>🔄 90% automated refactoring</li>
       </ul>
     </td>
   </tr>
