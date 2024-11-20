@@ -1,4 +1,4 @@
-<h1 align="center">🤖 AI Engineering & Edge Computing</h1>
+<h1 align="center">Staff Engineer @ Uber, Building On-Device AI</h1>
 
 <table>
   <tr>
@@ -12,29 +12,21 @@
       </ul>
       
       <h3>💼 Impact at Uber</h3>
-      <ul>
-        <li>Edge caching initiative: 
-          <ul>
-            <li>⚡️ 45% reduction in TTFB</li>
-            <li>📱 68% faster mobile load times</li>
-            <li>🌐 Serving 2M+ requests/day</li>
-          </ul>
-        </li>
-        <li>Candidate offer tools revamp:
-          <ul>
-            <li>📈 3x faster offer generation</li>
-            <li>👥 Used for 1M+ candidates</li>
-            <li>💸 $2M annual efficiency gains</li>
-          </ul>
-        </li>
-        <li>AI test coverage:
-          <ul>
-            <li>🎯 Coverage increased by 35%</li>
-            <li>🔄 90% automated refactoring</li>
-            <li>⏱️ 60% faster PR reviews</li>
-          </ul>
-        </li>
-      </ul>
+      
+Edge caching initiative: 
+- ⚡️ 45% reduction in TTFB
+- 📱 68% faster mobile load times
+- 🌐 Serving 2M+ requests/day
+
+Candidate offer tools revamp:
+- 📈 3x faster offer generation
+- 👥 Used for 1M+ candidates
+- 💸 $2M annual efficiency gains
+
+AI test coverage:
+- 🎯 Coverage increased by 35%
+- 🔄 90% automated refactoring
+- ⏱️ 60% faster PR reviews
     </td>
     <td width="50%" valign="top">
       <h3>🎯 On-Device AI Focus</h3>
