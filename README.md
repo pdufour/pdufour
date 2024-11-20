@@ -12,8 +12,7 @@
         <li>Custom fine-tuned models</li>
       </ul>
 
-
-      <h3>🎯 Qwen2-VL on the browser</h3>
+      <h4>🎯 Qwen2-VL on the browser</h4>
       <ul>
         <li>Created ONNX versions of Qwen2-VL to get it working on the browser</li>
         <li>Available on my <a href="https://huggingface.co/pdufour/">Huggingface profile</a></li>
@@ -24,12 +23,11 @@
       <h3>💼 Impact at Uber</h3>
       <h4>Edge caching initiative:</h4>
       <ul>
-        <li>⚡️ 45% reduction in TTFB
+        <li>⚡️ 45% reduction in TTFB</li>
           <ul>
             <li>📱 68% faster mobile load times</li>
             <li>🌐 Serving 1b+ requests a month</li>
           </ul>
-        </li>
       </ul>
 
       <h4>Candidate offer tools revamp:</h4>
