@@ -8,10 +8,11 @@
       <a href="https://linkedin.com/in/pauldufour">
         <img width="111" src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=" />
       </a>
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       <a href="https://threads.net/pauldufour">
         <img width="111" src="https://img.shields.io/static/v1?style=for-the-badge&message=Threads&color=000000&logo=Threads&logoColor=FFFFFF&label=" />
       </a>
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     </td>
   </tr>
 </table>
