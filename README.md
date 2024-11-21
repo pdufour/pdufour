@@ -1,8 +1,8 @@
 <h1 align="center">Staff Engineer @ Uber</h1>
 <table width="100%" align="center">
     <td width="50%" align="center">
-      <img width="111" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-      <img width="62.5" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
+      <img height="25" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+      <img height="25" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
     </td>
     <td width="50%" align="center">
       <a href="https://linkedin.com/in/pauldufour">
