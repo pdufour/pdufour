@@ -22,7 +22,7 @@
       <ul>
         <li>Browser-based multimodal AI that runs locally</li>
         <li>Audio, text and image inputs</li>
-        <li>Custom fine-tuned models</li>
+        <li><a href="https://huggingface.co/pdufour/Llama-3.2-11B-Vision-Instruct-WebSight">Custom fine-tuned LLama 3.2 Vision models</a></li>
         <a href="https://github.com/pdufour/llm-coder">Open source repo</a>
       </ul>
       <h4><a href="https://huggingface.co/pdufour/Qwen2-VL-2B-Instruct-ONNX-Q4-F16">🎯 Qwen2-VL on the browser</h4>
