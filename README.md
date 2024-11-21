@@ -24,10 +24,10 @@
         <li>Audio, text and image inputs</li>
         <li>Custom fine-tuned models</li>
       </ul>
-      <h4>🎯 Qwen2-VL on the browser</h4>
+      <h4><a href="https://huggingface.co/pdufour/Qwen2-VL-2B-Instruct-ONNX-Q4-F16">🎯 Qwen2-VL on the browser</h4>
       <ul>
         <li>Created ONNX versions of Qwen2-VL to get it working on the browser</li>
-        <li>Available on my <a href="https://huggingface.co/pdufour/">Huggingface profile</a></li>
+        <li>Available on my <a href="https://huggingface.co/pdufour/Qwen2-VL-2B-Instruct-ONNX-Q4-F16">Huggingface profile</a></li>
       </ul>
     </td>
     <td width="50%" valign="top">
