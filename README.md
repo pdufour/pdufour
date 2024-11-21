@@ -2,7 +2,7 @@
 <table width="100%" align="center">
     <td width="50%" align="center">
       <img width="111" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
+      <img width="62.5" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
     </td>
     <td width="50%" align="center">
       <a href="https://linkedin.com/in/pauldufour">
@@ -11,6 +11,7 @@
       <a href="https://threads.net/pauldufour">
         <img width="111" src="https://img.shields.io/static/v1?style=for-the-badge&message=Threads&color=000000&logo=Threads&logoColor=FFFFFF&label=" />
       </a>
+      &nbsp;&nbsp;&nbsp;
     </td>
   </tr>
 </table>
