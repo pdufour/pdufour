@@ -18,7 +18,7 @@
   <tr>
     <td width="50%" valign="top">
       <h3>🚀 Open source work</h3>
-      <h4>[LLM Coder](https://github.com/pdufour/pdufour/llm-coder)</h4>
+      <h4><a href="https://github.com/pdufour/pdufour/llm-coder">LLM Coder</a></h4>
       <ul>
         <li>Browser-based multimodal AI that runs locally</li>
         <li>Audio, text and image inputs</li>
