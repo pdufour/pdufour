@@ -27,7 +27,7 @@
       </ul>
       <h4><a href="https://huggingface.co/pdufour/Qwen2-VL-2B-Instruct-ONNX-Q4-F16">🎯 Qwen2-VL on the browser</h4>
       <ul>
-        <li>Created ONNX versions of Qwen2-VL to get it working on the browser</li>
+        <li>Achieved first-ever browser deployment of Qwen2-VL via ONNX conversion.</li>
         <li>Available on my <a href="https://huggingface.co/pdufour/Qwen2-VL-2B-Instruct-ONNX-Q4-F16">Huggingface profile</a></li>
       </ul>
     </td>
