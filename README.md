@@ -1,5 +1,5 @@
-Staff SWE at Uber
-- Working with VPs of every org to optimize our billion dollar cloud infra budgets (Go, React, Pinot, SQL, TiDB)
+Staff SWE at Uber<br>
+Working with VPs from every engineering org to optimize our billion dollar cloud infra budgets (using Go, React, Pinot, SQL, TiDB)
 
 **Recent Work:**
 - [Add support for signing detection using yolo11 model](https://github.com/pdufour/codex/pull/2) (https://github.com/pdufour/codex/pull/2)
